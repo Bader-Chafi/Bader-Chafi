@@ -24,13 +24,13 @@
 
 ## 📌 Featured Projects  
 
-### 🚀 [Push_swap](https://github.com/your-repo-link)
+### 🚀 [Push_swap]([https://github.com/your-repo-link](https://github.com/Bader-Chafi/Push_Swap))
 > Sorting algorithm project using stacks and minimal moves.  
 
 ### 🛠 [Born2beroot](https://github.com/your-repo-link)
 > Linux server administration project with user management and security practices.  
 
-More projects on my [GitHub Repositories](https://github.com/your-username?tab=repositories) 📂  
+More projects on my [GitHub Repositories]([https://github.com/your-username?tab=repositories](https://github.com/Bader-Chafi?tab=repositories)) 📂  
 
 ---
 
