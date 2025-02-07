@@ -2,7 +2,7 @@
 
 <!--
 **Bader-Chafi/Bader-Chafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![bchafi's 42 stats](https://badge.mediaplus.ma/levi/bchafi)](https://github.com/oakoudad/badge42)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
