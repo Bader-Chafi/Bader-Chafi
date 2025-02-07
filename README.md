@@ -1,5 +1,5 @@
 ## Hi there 👋
-   <a href="https://github.com/oakoudad/badge42" style="display: flex; justify-content: center; align-items: center;"><img src="https://badge.mediaplus.ma/levi/bchafi" alt="bchafi's 42 stats"></a>
+   [<a href="https://github.com/oakoudad/badge42" style="display: flex; justify-content: center; align-items: center;"><img src="https://badge.mediaplus.ma/levi/bchafi" alt="bchafi's 42 stats"></a>](https://badge.mediaplus.ma/greenbinary/bchafi)
                                              
 <!--
 **Bader-Chafi/Bader-Chafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
