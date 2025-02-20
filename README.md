@@ -10,6 +10,7 @@ Continuing my quest for knowledge and growth, I embarked on a journey at School 
 Whether you have questions, want to collaborate, or just discuss web development and technology, I'm always open to connecting.
 
 Feel free to explore, and don't hesitate to reach out. Looking forward to connecting with fellow developers and enthusiasts!
+
 🎓 **Student at 1337 Khouribga** | 💻 **C Programmer** | 🚀 **Passionate about Algorithms & System Programming**  
 
 ⭐ **If you like my work, consider giving a star to my projects!** 🚀
