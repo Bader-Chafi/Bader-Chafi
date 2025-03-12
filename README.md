@@ -42,7 +42,7 @@ Here, I focus on enhancing my understanding of algorithms and data structures. T
 ---
 
 ### 🎮 **Game Development**
-
+/*
 These repositories demonstrate my journey through **game development** using **C** and various libraries. Each project showcases different aspects of graphics rendering, user interaction, and game mechanics.
 
 - **[Snake Game](https://github.com/yourusername/snake_game)**  
@@ -55,7 +55,7 @@ These repositories demonstrate my journey through **game development** using **C
   *Tech Stack*: **C**, **MLX**, **Game Development**  
   *Status*: In Progress
 
----
+--- */
 
 ### 📈 **Learning and Experimentation**
 
