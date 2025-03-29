@@ -19,7 +19,7 @@ Feel free to explore, and don't hesitate to reach out. Looking forward to connec
 ### 🚀 **Core Projects**
 
 These are the repositories where I focus on developing and honing my skills in **C programming**, **game development**, and more.
-
+- **[So Long](https://github.com/Bader-Chafi/So_Long.git)**
 - **[So Long](https://github.com/Bader-Chafi/So_Long.git)**  
 - **[Push Swap](https://github.com/Bader-Chafi/Push_Swap.git)**
 - **[Minitalk](https://github.com/Bader-Chafi/Minitalk.git)**
